@@ -7,5 +7,7 @@ FriendsFinder is a web application which serves as an online phonebook directory
 
 
 ## Technology 
-
+- HTML
+- CSS 
+- JavaScript
 - React 
